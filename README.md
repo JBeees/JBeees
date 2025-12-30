@@ -73,5 +73,5 @@ If you are looking for my university source code, you might found what you're lo
 
 <h2>📊 Github Statistics </h2>  
   
-![JBeees GitHub stats](https://github-readme-stats.vercel.app/api?username=JBeees&show_iconstrue&theme=holi)
+![JBeees GitHub stats](https://github-readme-stats.vercel.app/api?username=JBeees&show_icons=true&theme=holi)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JBeees&layout=compact&theme=holi)](https://github-readme-stats.vercel.app/api/top-langs/?username=JBeees&theme=neon&layout=compact)
