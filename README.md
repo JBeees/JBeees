@@ -70,9 +70,12 @@ I’m open to opportunities in cybersecurity or related fields — feel free to 
 If you are looking for my university source code, you might found what you're looking for in this alt github account : <a href="https://github.com/JBeees">Alt Github</a>
 </p>
 
+## 📊 GitHub Statistics
 
-<h2>📊 Github Statistics </h2>  
-![JBeees GitHub stats](https://github-readme-stats.vercel.app/api?username=JBeees&show_icons=true&theme=holi&cache_seconds=86400)
+<div align="center">
+  
+![JBeees's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=JBeees&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JBeees&layout=compact&theme=holi&cache_seconds=86400)](https://github-readme-stats.vercel.app/api/top-langs/?username=JBeees&layout=compact&theme=holi)
- 
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JBeees&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
