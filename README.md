@@ -42,6 +42,7 @@ I’m open to opportunities in cybersecurity or related fields — feel free to 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
         <img src="https://img.shields.io/badge/Microsoft_SQL_Server-1B1B1B?logo=microsoftsqlserver&logoColor=CC2927&style=for-the-badge" alt="Microsoft SQL Server Badge">
     <img src="https://img.shields.io/badge/PostgreSQL-1B1B1B?logo=postgresql&logoColor=336791&style=for-the-badge" alt="PostgreSQL Badge">
+        <img src="https://img.shields.io/badge/Redis-1B1B1B?logo=redis&logoColor=DC382D&style=for-the-badge" alt="Redis Badge">
     </td>
   </tr>
   <tr>
