@@ -51,6 +51,10 @@ I’m open to opportunities in cybersecurity or related fields — feel free to 
                 <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white">
       <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" 
       alt="Docker Badge"></img>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"
+    alt="Kubernetes Badge">
+     <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"
+    alt="Jenkins Badge">
     </td>
   </tr>
   <tr>
