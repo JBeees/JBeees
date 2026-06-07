@@ -34,7 +34,9 @@ I’m open to opportunities in cybersecurity or related fields — feel free to 
     <td>
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-    </td>
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"
+    alt="Django Badge">    
+</td>
   </tr>
   <tr>
     <td><b>Database</b></td>
